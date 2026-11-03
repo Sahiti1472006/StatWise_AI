@@ -1,0 +1,6 @@
+{
+  "name": "StatWise AI – Statistical Data Analysis & Meta Muse Spark Assistant",
+  "description": "AI-powered statistical data analysis platform with CSV/Excel upload, descriptive statistics, correlation matrices, regression modeling, interactive visualizations, and dataset chat powered by Meta Muse Spark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
